@@ -1,19 +1,20 @@
-<h1 align="center">👋 Olá, eu sou um construtor de ideias!</h1>
+<h1 align="center">👋 Hello, I'm an Idea Builder!</h1>
 
 <p align="center">
-  💻 Dev focado em soluções para microempreendedores | 🚀 Fundador em construção | 📚 Estudante de tecnologia e negócios
+  💻 BACK END DEVELOPER | 🚀 Founder in the making | 📚 Technology & Business Student
 </p>
 
 ---
 
-## Sobre mim
+## About Me
 
-- 🔭 Atualmente desenvolvendo uma **startup tech** com foco em impacto econômico para microempreendimentos
-- 🌱 Graduando **Ciência da computação**
-- 🧠 Sempre buscando evoluir com ações práticas e visão de longo prazo
+- 🔭 Currently developing a **tech startup** focused on economic impact for micro-entrepreneurs  
+- 🌱 Pursuing a degree in **Computer Science**  
+- 🧠 Always seeking growth through practical actions and long-term vision
 
 ---
-## 🛠️ Tecnologias & Ferramentas
+
+## 🛠️ Technologies & Tools
 <div style="display: inline_block"><br>
   <img align="center" alt="Ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
@@ -21,7 +22,6 @@
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
   <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
-
 </div>
 
 ---
@@ -35,10 +35,9 @@
 
 ---
 
+## 🌍 Where to find me
 
-## 🌍 Onde me encontrar
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-otavio-silva)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-otavio-silva)  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizsoares11)
 
 ---
