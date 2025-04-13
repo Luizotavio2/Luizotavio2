@@ -10,20 +10,17 @@
 
 - 🔭 Atualmente desenvolvendo uma **startup tech** com foco em impacto econômico para microempreendimentos
 - 🌱 Graduando **Ciência da computação**
-- 💬 Me chama pra trocar ideia sobre **startups, produtos digitais e desenvolvimento mobile**
 - 🧠 Sempre buscando evoluir com ações práticas e visão de longo prazo
 
 ---
-.
 ## 🛠️ Tecnologias & Ferramentas
 <div style="display: inline_block"><br>
   <img align="center" alt="Ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
   <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
 
 </div>
 
