@@ -36,7 +36,7 @@
 
 ## 🌍 Where to find me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luiz-otavio-silva)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/luiz-otavio-silva](https://www.linkedin.com/in/luiz-otavio-silva/))  
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizsoares11)
 
 ---
