@@ -7,8 +7,7 @@
 ---
 
 ## About Me
-
-- 🔭 Currently developing a **tech startup** focused on economic impact for micro-entrepreneurs  
+  
 - 🌱 Pursuing a degree in **Computer Science**  
 - 🧠 Always seeking growth through practical actions and long-term vision
 
