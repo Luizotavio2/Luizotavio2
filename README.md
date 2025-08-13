@@ -1,42 +1,60 @@
-<h1 align="center">👋 Hello, I'm an Idea Builder!</h1>
+<h1>👋 Hi, I'm Luiz Otávio</h1>
 
-<p align="center">
-  💻 BACK END DEVELOPER | 🚀 Founder in the making | 📚 Technology & Business Student
-</p>
-
----
-
-## About Me
-  
-- 🌱 Pursuing a degree in **Computer Science**  
-- 🧠 Always seeking growth through practical actions and long-term vision
+## 🧑‍💻 About Me  
+- 🎓 Studying **Computer Science**  
+- 💡 Building solutions that connect **technology** and **business**  
+- 📍 Based in Brazil, working towards global impact  
 
 ---
 
-## 🛠️ Technologies & Tools
-<div style="display: inline_block"><br>
-  <img align="center" alt="Ja" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Node.js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="SQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg">
+## 🛠 Skills  
+
+<div align="center">
+
+**Languages**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" height="30" alt="JavaScript"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg" height="30" alt="TypeScript"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="Java"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="30" alt="Python"/> 
+
+**Frameworks & Runtime**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" height="30" alt="Express"/> 
+
+**Databases**  
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" height="30" alt="PostgreSQL"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB"/> 
+
+**Tools**  
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="30" alt="Git"/> 
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="30" alt="GitHub"/> 
+
 </div>
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Overview  
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Luizotavio2&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizotavio2&layout=compact&theme=radical"/>
-</p>
+<div align="center">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Luizotavio2&show_icons=true&theme=default&hide_border=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Luizotavio2&layout=compact&theme=default&hide_border=true"/>
+</div>
+
+---
+
+## 📈 Activity Graph  
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Luizotavio2&theme=github-light&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 
-## 🌍 Where to find me
+## 🌍 Connect with Me  
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=linkedin&logoColor=white)]([www.linkedin.com/in/luiz-otavio-silva](https://www.linkedin.com/in/luiz-otavio-silva/))  
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/luizsoares11)
-
----
+<div align="center">
+  <a href="https://www.linkedin.com/in/luiz-otavio-silva/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" height="25"/>
+  </a>
+  <a href="https://instagram.com/luizsoares11" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" height="25"/>
+  </a>
+</div>
